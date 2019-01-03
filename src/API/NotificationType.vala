@@ -71,7 +71,7 @@ public enum Tootle.NotificationType {
             case REBLOG:
                 return "media-playlist-repeat-symbolic";
             case FAVORITE:
-                return "help-about-symbolic";
+                return "star-new-symbolic";
             case FOLLOW:
             case FOLLOW_REQUEST:
                 return "contact-new-symbolic";
